@@ -4,7 +4,7 @@ I’m Thai Gaines, an AI & Business Analytics student who uses data and automati
 
 ## Explore my work
 
-[Visit my portfolio](https://thaigaines.github.io) for a fuller introduction to my work, experience, and projects.
+[Visit my personal portfolio](https://thaigaines.github.io) for a fuller introduction to my work, experience, and projects.
 
 ## Current focus
 
