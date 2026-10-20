@@ -8,13 +8,13 @@ I’m Thai Gaines, an AI & Business Analytics student who uses data and automati
 
 ## Current focus
 
-I’m currently building Python-based analytics and automation projects while developing my skills in data analysis, databases, decision support, and AI-enabled workflows at the University of South Florida. I’m preparing for future AI and business analyst opportunities where I can combine rigorous analysis with creative problem-solving.
+I’m currently building Python-based analytics and automation projects while developing my skills in data analysis, databases, decision support, and AI-enabled workflows at the University of South Florida. I’m preparing for future AI and business analyst opportunities where I can combine analysis with creative problem-solving.
 
 ## Toolkit
 
 - **Analytics:** Python, SQL, Excel, data visualization, and financial modeling
-- **Automation and AI:** data pipelines, workflow automation, and agent-enabled problem-solving
-- **Communication:** research, documentation, and translating complex information into clear next steps
+- **Automation and AI:** data pipelines, workflow automation, and agentic design
+- **Communication:** research, documentation, and translating complex data into clear follow-up
 
 ## Featured projects
 
