@@ -1,6 +1,6 @@
 # Thai Gaines | AI & Business Analytics
 
-I’m Thai Gaines, an AI & Business Analytics student who uses data and automation to enable creative expression, building practical tools that make complex information easier to work with.
+I’m Thai, an AI & Business Analytics student who uses data and automation to enable creative expression, building practical tools that make complex information easier to work with.
 
 ## Explore my work
 
